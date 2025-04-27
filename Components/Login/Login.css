@@ -1,0 +1,15 @@
+.login{
+    background-color: rgb(34, 5, 32);
+    margin-bottom: 40px;
+    color: white;
+    border-radius: 40px;
+}
+.login input{
+    color: white;
+}
+.login ::placeholder{
+    color: white;
+}
+.login p{
+    color: #fff;
+}
